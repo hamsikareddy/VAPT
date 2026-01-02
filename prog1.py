@@ -39,4 +39,4 @@ def ping_sweep(network_prefix, threads=50):
     return live_hosts
 
 if __name__ == "__main__":
-    ping_sweep("192.168.1")
+    ping_sweep("115.243.13")
